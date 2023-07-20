@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'am Technical Support Specialist</h3>
 
 ### About me
 - 🛠 I’m currently working on user's support

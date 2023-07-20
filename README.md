@@ -19,6 +19,10 @@
 <a href=https://distrowatch.com//><img height="38" src="https://netacad.mpei.ru/wp-content/uploads/linux_un.png"></a>
 <a href=https://code.visualstudio.com//><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvellz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marvellz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvellz&theme=2077&utcOffset=8)
+
 <!---
 <a href=/><img height="50" src=""></a>
 <a href=/><img height="50" src=""></a>

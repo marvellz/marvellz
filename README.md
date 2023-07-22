@@ -7,7 +7,7 @@
 - 💬 Ask about Windows/Linux/Android/iOS operating systems, their settings, which distribution kit you should choose.
 - 🤝 Pronouns: Alex
   
-### Technologies, Stacks & Soft
+### Technologies, Stacks & Softo
 <a href=https://www.kali.org/><img height="40" src="https://www.wizcase.com/wp-content/uploads/2022/07/Kali-Linux-logo.png"></a>
 <a href=https://www.parrotsec.org/><img height="40" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png"></a>
 <a href=https://www.elcomsoft.ru/><img height="43" src="https://i.ibb.co/b6L24t9/62-G-ab-ON-400x400-removebg-preview.png"></a>

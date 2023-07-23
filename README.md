@@ -3,7 +3,7 @@
 ### About me
 - 🛠 I’m currently working on user's support
 - 👨‍💻 I’m currently learning Kotlin
-- 🙄I'm interested Wardriving, AV & Data Protection, OS, Free & Open-Source Soft
+- 🙄 I'm interested Wardriving, AV & Data Protection, OS, Free & Open-Source Soft
 - 💬 Ask about Windows/Linux/Android/iOS operating systems, their settings, which distribution kit you should choose.
 - 🤝 Pronouns: Alex
   

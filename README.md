@@ -6,7 +6,7 @@
 - 🙄 I'm interested Wardriving, AV & Data Protection, OS, Free & Open-Source Soft
 - 💬 Ask about Windows/Linux/Android/iOS operating systems, their settings, which distribution kit you should choose
 - 🤝 Pronouns: Alex
-- 
+  
 ### Technologies, Stacks & Soft
 <a href=https://www.kali.org/><img height="40" src="https://www.wizcase.com/wp-content/uploads/2022/07/Kali-Linux-logo.png"></a>
 <a href=https://www.parrotsec.org/><img height="40" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png"></a>

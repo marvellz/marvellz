@@ -17,7 +17,7 @@
 <a href=https://www.virtualbox.org/><img height="45" src="https://iili.io/HQ6gZa1.png"></a>
 <a href=https://wordpress.com/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"></a>
 <a href=https://developer.android.com/studio/><img height="40" src="https://i.ibb.co/ngHfG5q/pasted-image-0-removebg-preview.png"></a>
-<a href=https://distrowatch.com/><img height="38" src="https://netacad.mpei.ru/wp-content/uploads/linux_un.png"></a>
+<a href=https://distrowatch.com/><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"></a>
 <a href=https://code.visualstudio.com/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
 

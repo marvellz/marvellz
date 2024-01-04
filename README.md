@@ -20,8 +20,6 @@
 <a href=https://distrowatch.com/><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"></a>
 <a href=https://code.visualstudio.com/><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
-l
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvellz&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marvellz&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvellz&theme=2077&utcOffset=8)
